@@ -118,9 +118,9 @@ The training framework is built on [verl](https://github.com/volcengine/verl) an
 If you find this work useful, please cite:
 
 ```bibtex
-@article{li2026sis,
+@article{li2026turning,
   title={Turning Off-Policy Tokens On-Policy: A Plug-in Approach for Improving LLM Alignment},
-  author={Li, Yu and Li, Xiuyu and Yi, Mingyang and Wang, Jiaxing and Xu, Zhangliang and Xing, Zhaolong and Chen, Zhen},
+  author={Li, Yu and Li, Xiuyu and Yi, Mingyang and Wang, Jiaxing and Zhang, Liangxu and Xing, Zhaolong and Chen, Zhen},
   journal={arXiv preprint arXiv:2607.04728},
   year={2026}
 }
